@@ -1,0 +1,137 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  padding: 15px;
+}
+body {
+  background: linear-gradient(to bottom, #8fade8df, #b6b8bb);
+}
+
+.todolist {
+  width: 540px;
+  background: white;
+  margin: 100px auto 20px;
+  padding: 40px 30px 70px;
+  border-radius: 20px;
+}
+.todolist h2 {
+  color: #002765;
+  display: flex;
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+.todolist h2 img {
+  margin-left: 10px;
+  width: 10%;
+  height: 40px;
+}
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #e8ecf4df;
+  border-radius: 30px;
+  padding-left: 20px;
+  margin-bottom: 25px;
+}
+input {
+  border: none;
+  outline: none;
+  font-size: 16px;
+  background: transparent;
+  padding: 12px;
+  font-weight: 16px;
+}
+button {
+  border: none;
+  outline: none;
+  padding: 16px 70px;
+  background: rgba(124, 86, 160, 0.989);
+  color: #fff;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 40px;
+}
+ol li {
+  font-size: 18px;
+  padding: 12px 5px;
+  user-select: none;
+  cursor: pointer;
+}
+.list-container {
+  margin-top: 15px;
+  padding-left: 22px;
+}
+ol li {
+  position: relative;
+}
+
+ol li span {
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+.edit {
+  cursor: pointer;
+  margin-right: 30px;
+  font-size: 18px;
+  color: black;
+}
+
+.cross {
+  cursor: pointer;
+  margin-left: 30px;
+  font-size: 18px;
+  color: black;
+}
+.cross:hover {
+  border-radius: 50px;
+  background-color: whitesmoke;
+}
+.edit:hover {
+  border-radius: 50px;
+  background-color: whitesmoke;
+}
+
+@media only screen and (max-width: 600px) {
+  .todolist {
+    width: 100%;
+    margin: 50px auto 20px;
+    padding: 30px 20px 50px;
+    border-radius: 10px;
+  }
+  .todolist h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .todolist h2 img {
+    width: 20%;
+    height: 40px;
+  }
+  .row {
+    flex-direction: column;
+    background: none;
+    border-radius: 0;
+    padding-left: 0;
+    margin-bottom: 20px;
+  }
+  input {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  button {
+    width: 100%;
+    padding: 12px 40px;
+    border-radius: 30px;
+  }
+  ol li {
+    font-size: 16px;
+    padding: 10px 5px;
+  }
+}
