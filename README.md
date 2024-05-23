@@ -1,2 +1,2 @@
-# Movie Search Application
-[https://bratajit-03.github.io/Web-Development/movie-app/]
+# Mini-Projects
+This repository contains all mini Projects based on Web Development
