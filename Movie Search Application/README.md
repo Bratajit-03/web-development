@@ -11,7 +11,7 @@ An API powered application capable of providing every minute details pertaining 
 
 ## Website
 
-The website is deployed [here](https://your-website-url.com).
+The website is deployed [here](https://bratajit-03.github.io/Web-Development/Movie%20Search%20Application/).
 
 ## Screenshots
 
