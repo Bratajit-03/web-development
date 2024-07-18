@@ -7,7 +7,7 @@ An API powered application capable of providing every minute details pertaining 
 - HTML
 - CSS
 - JavaScript
-- OMDB API
+- OMDb API
 
 ## Website
 
@@ -15,6 +15,6 @@ The website is deployed [here](https://bratajit-03.github.io/Web-Development/Mov
 
 ## Screenshots
 
-| ![Screenshot 1](https://github.com/Bratajit-03/Web-Development/assets/106532791/08f71dd7-d7ef-4417-9ff5-0f6c0523dfa7.png) | ![Screenshot 2](https://github.com/Bratajit-03/Web-Development/assets/106532791/2f6e5eb4-8197-4332-88f3-a1916a3485ae.png) |
+| ![Screenshot 1](https://github.com/user-attachments/assets/c1b5182f-8e5d-4598-ba3a-b953d3bbe483) | ![Screenshot-2](https://github.com/user-attachments/assets/d1411887-fa3b-451e-88a1-232e22f18857) |
 |:---:|:---:|
 | *Screenshot 1* | *Screenshot 2* |
