@@ -10,7 +10,7 @@ This is an exact clone of the popular OTT platform Disney+ Hotstar, recognized f
 
 ## Demo:
 
-The website is deployed [here](https://bratajit-03.github.io/Web-Development/disney+hotstar-clone/).
+The website is deployed [here](https://bratajit-03.github.io/Web-Development/Hotstar_Clone/).
 
 ## Screenshots:
 
